@@ -1,9 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T15:33:43.918Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.4" etag="5-8wSzCE6P9HgXfl-Wle" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T15:52:41.933Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="tSAf0yKtEqPCLBr6H8eo" version="21.3.4" type="github">
   <diagram name="Page-1" id="5Voe6yUSwgtJVaa2_cNm">
-    <mxGraphModel>
+    <mxGraphModel dx="2245" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1wZhwgrKa4F7CoLH-JaN-1" target="1wZhwgrKa4F7CoLH-JaN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-1" value="WebCam" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1wZhwgrKa4F7CoLH-JaN-11" target="1wZhwgrKa4F7CoLH-JaN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-11" value="Add Image&amp;nbsp; To DataBase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="420" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.024;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1wZhwgrKa4F7CoLH-JaN-10" target="1wZhwgrKa4F7CoLH-JaN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-10" value="SetUp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="90" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.023;entryY=0.595;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1wZhwgrKa4F7CoLH-JaN-12" target="1wZhwgrKa4F7CoLH-JaN-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-310" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-290" y="450" />
+              <mxPoint x="-290" y="296" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-12" value="Real-time Database Update" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="420" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1wZhwgrKa4F7CoLH-JaN-2" target="1wZhwgrKa4F7CoLH-JaN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-2" value="Graphics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="90" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1wZhwgrKa4F7CoLH-JaN-13" target="1wZhwgrKa4F7CoLH-JaN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-13" value="Add Data To DataBase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="420" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.589;entryY=-0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1wZhwgrKa4F7CoLH-JaN-3" target="1wZhwgrKa4F7CoLH-JaN-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="970" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-3" value="Encoding Generator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="90" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1wZhwgrKa4F7CoLH-JaN-14" target="1wZhwgrKa4F7CoLH-JaN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-14" value="Database Setup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="420" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1wZhwgrKa4F7CoLH-JaN-4" target="1wZhwgrKa4F7CoLH-JaN-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="970" y="455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-4" value="Face Recognition" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="270" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-8" value="Limit Number Of Attendance Per Day" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="260" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1wZhwgrKa4F7CoLH-JaN-29" target="1wZhwgrKa4F7CoLH-JaN-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-200" y="110" />
+              <mxPoint x="-120" y="110" />
+              <mxPoint x="-120" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="1wZhwgrKa4F7CoLH-JaN-29" target="1wZhwgrKa4F7CoLH-JaN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-29" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="130" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1wZhwgrKa4F7CoLH-JaN-35" value="&lt;a style=&quot;box-sizing: border-box; background-color: transparent; text-decoration-line: none; outline: none; outline-offset: 0px; box-shadow: none;&quot; href=&quot;https://github.com/codewithashim/AI-Face-Recognizection&quot; data-turbo-frame=&quot;repo-content-turbo-frame&quot; data-pjax=&quot;#repo-content-pjax-container&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;AI-Face-Recognizection&lt;/font&gt;&lt;/b&gt;&lt;/a&gt;&lt;span style=&quot;box-sizing: border-box; color: rgb(14, 17, 22); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 20px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="380" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
